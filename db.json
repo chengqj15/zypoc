@@ -5,12 +5,9 @@
              ]
   },
   "id15": {
-    "status_code":"0",
-    "msg_response":{
-      "update":{
-        "cards":"1:借记卡 6235 0500 0002 7170 2: 信用卡 6235 0500 0002 7171"
-      }
-    }
+    "cards": [{"card_type":"借记卡", "card_no":"6235 0500 0002 8001"},
+              {"card_type":"信用卡", "card_no":"6235 0500 0002 8002"}
+             ]
   },
   "credit_card": {
     "status_code":"0",
